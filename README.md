@@ -1,5 +1,5 @@
 # BAZE
-> MATLAB code associated with the following publication:
+MATLAB code associated with the following publication:
  - Zhang L, Shi Y, Jenq RR, Do K, Peterson CB. (2021) Bayesian compositional regression with structured priors for microbiome feature selection. *Biometrics*. 77(3): 824-838.
  - Please cite our paper if you use this code. Thanks!
 
