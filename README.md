@@ -1,9 +1,11 @@
 # BAZE
+
+### Author: Liangliang Zhang
+
 MATLAB code associated with the following publication:
  - Zhang L, Shi Y, Jenq RR, Do K, Peterson CB. (2021) Bayesian compositional regression with structured priors for microbiome feature selection. *Biometrics*. 77(3): 824-838.
  - Please cite our paper if you use this code. Thanks!
 
-### Author: Liangliang Zhang
 
 The proposed Bayesian sparse regression model addressed the challenges of microbiome data, including the compositional nature of the data, the high dimension, and the relatedness among the features. This packages include two different ways of addressing the fixed-sum constraint: the constrast transformation and the generalized transformation. The codes are put separately under "BayesianContrast" and "BayesianGeneralize". Both methods take advantage of the phylogenetic tree information. They formulate a structured prior to link the selection of closely related organisms, which are likely to have a similar effect on the outcome. 
 
